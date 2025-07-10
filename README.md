@@ -18,16 +18,18 @@
 
 ---
 
-<!-- ANIMATED GIF -->
-<div align="center">
-  <img alt="Farhan Coding" width="600" height="340"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwNmVhYzJtZGE1anh2cXh2N3llZjV2NHh6eDdyajBzbmlxdnV6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif">
-</div>
-
-- 🌱 I’m currently exploring **Agentic AI Development**
-
-- 📫 How to reach me **bsse1440@iit.du.ac.bd**
-
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      - 🌱 I’m currently exploring <b>Agentic AI Development</b> <br>
+      - 📫 How to reach me <b>bsse1440@iit.du.ac.bd<b>
+    </td>
+    <td>
+      <img alt="Farhan Coding" width="500" height="300"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwNmVhYzJtZGE1anh2cXh2N3llZjV2NHh6eDdyajBzbmlxdnV6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 ## Languages and Tools
 <table>
@@ -58,13 +60,18 @@
 </table>
 
 ## GitHub Stats
+<div align="center">
+<a href="https://github.com/FarhanTausif">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhanTausif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTausif&layout=compact&langs_count=7&theme=dark"/></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhantausif&show_icons=true&locale=en&layout=compact" alt="farhantausif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhantausif&show_icons=true&locale=en" alt="farhantausif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhantausif&" alt="farhantausif" /></p>
-
+## My contribution streak
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanTausif&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</p>
 
 ## LeetCode Stats
 
