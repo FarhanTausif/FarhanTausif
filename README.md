@@ -92,5 +92,4 @@
 </p>
 
 ---
-
-<p align="center"><i>“Building for impact, learning for growth.”</i></p>
+>If debugging is the process of removing bugs, then programming must be the process of putting them in – Edsger W. Dijkstra
