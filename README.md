@@ -14,7 +14,7 @@
    </table>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhantausif&label=Profile%20views&color=0e75b6&style=flat" alt="farhantausif" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=farhantausif&label=Profile%20views&color=0e75b6&style=flat" alt="farhantausif" /> </p>
 
 ---
 
