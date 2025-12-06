@@ -18,21 +18,24 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td style="vertical-align: middle;">
       - 🌱 I’m currently exploring <b>Agentic AI Development</b> <br>
       - 📫 How to reach me <b>bsse1440@iit.du.ac.bd<b>
     </td>
     <td>
+    <!-- 
       <img alt="Farhan Coding" width="500" height="300"
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwNmVhYzJtZGE1anh2cXh2N3llZjV2NHh6eDdyajBzbmlxdnV6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif">
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwNmVhYzJtZGE1anh2cXh2N3llZjV2NHh6eDdyajBzbmlxdnV6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif"> -->
+      <img alt="Farhan Coding" width="500" height="300"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG11dWI2ZHh0aHBxNGJsNDZqandocmc3eG9nNG5ubnl5d2cza2JuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif">
     </td>
   </tr>
 </table>
 
 ## Languages and Tools
-<table>
+<table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
         <td>
