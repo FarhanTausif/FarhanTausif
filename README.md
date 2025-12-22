@@ -21,15 +21,16 @@
 <table align="center">
   <tr>
     <td style="vertical-align: middle;">
-      - 🌱 I’m currently exploring <b>Agentic AI Development</b> <br>
-      - 📫 How to reach me <b>bsse1440@iit.du.ac.bd<b>
+      - I'm currently working on <a href="https://kubekit.io/"> <b>KubeKit</b> </a> <br>
+      - I’m currently exploring <b>Agentic AI Development</b> <br>
+      - How to reach me <a href="mailto:farhantausif4@gmail.com"><b>farhantausif4@gmail.com<b></a> 
     </td>
     <td>
     <!-- 
       <img alt="Farhan Coding" width="500" height="300"
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwNmVhYzJtZGE1anh2cXh2N3llZjV2NHh6eDdyajBzbmlxdnV6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif"> -->
       <img alt="Farhan Coding" width="500" height="300"
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG11dWI2ZHh0aHBxNGJsNDZqandocmc3eG9nNG5ubnl5d2cza2JuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif">
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG11dWI2ZHh0aHBxNGJsNDZqandocmc3eG9nNG5ubnl5d2cza2JuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"/>
     </td>
   </tr>
 </table>
@@ -65,14 +66,14 @@
 ## GitHub Stats
 <div align="center">
 <a href="https://github.com/FarhanTausif">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhanTausif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTausif&layout=compact&langs_count=7&theme=dark"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhanTausif&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="github-stats-left"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTausif&layout=compact&langs_count=7&theme=dark" alt="github-stats-right"/></a>
 </div>
 
 ## My contribution streak
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanTausif&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanTausif&layout=compact&langs_count=7&theme=dark" alt="contribution-streak"/>
   </a>
 </p>
 
@@ -80,7 +81,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/Farhan_Tausif/">
-    <img src="https://leetcard.jacoblin.cool/Farhan_Tausif?theme=dark&ext=contest" alt="LeetCode Stats" width="400"/>
+    <img src="https://leetcard.jacoblin.cool/Farhan_Tausif?theme=dark&ext=contest" alt="LeetCode Stats" width="400" alt="leetcode-stats"/>
   </a>
 </div>
 
