@@ -29,7 +29,7 @@
     <!-- 
       <img alt="Farhan Coding" width="500" height="300"
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTUwNmVhYzJtZGE1anh2cXh2N3llZjV2NHh6eDdyajBzbmlxdnV6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif"> -->
-      <img alt="Farhan Coding" width="500" height="300"
+      <img alt="Farhan Coding" width="400" height="300"
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG11dWI2ZHh0aHBxNGJsNDZqandocmc3eG9nNG5ubnl5d2cza2JuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"/>
     </td>
   </tr>
