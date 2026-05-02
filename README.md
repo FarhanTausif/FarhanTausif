@@ -21,7 +21,7 @@
 <table align="center">
   <tr>
     <td style="vertical-align: middle;">
-      - I'm currently working on <a href="https://kubekit.io/"> <b>KubeKit</b> </a> <br>
+      - I'm currently working on <b>Hallucination Detection and Mitigation in CodeLLMs</b>  <br>
       - I’m currently exploring <b>Agentic AI Development</b> <br>
       - How to reach me <a href="mailto:farhantausif4@gmail.com"><b>farhantausif4@gmail.com<b></a> 
     </td>
